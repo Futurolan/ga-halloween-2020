@@ -1,9 +1,9 @@
 const config = {
   title: 'Gamers Assembly : Halloween Edition 2020',
   logo: '/static/img/logo-orange-100x100.png',
-  description: 'L\'édition 2020 de la Gamers Assembly Halloween Edition aura lieu du ?? au ?? ???????? à ???',
+  description: 'L\'édition 2020 de la Gamers Assembly Halloween Edition aura lieu du 7 au 9 novembre 2020 à La Hune',
   metaImagePath: '/static/img/logo-orange-200x200.png',
-  gaTrackingId: 'UA-128777022-7',
+  gaTrackingId: 'UA-128777022-13',
   mainPartner: {
     logo: '/static/img/logo_st_benoit.jpg',
     url: 'http://www.ville-saint-benoit.fr/'
@@ -37,7 +37,7 @@ const config = {
   tournaments: {
     title: 'Tournois',
     navTitle: '<img src="/static/img/tournoisga.png" style="max-height:none">',
-    description: 'Tous les tournois de la Gamers Assembly 2020',
+    description: 'Tous les tournois de la Gamers Assembly Halloween Edition 2020',
     // notification: '<div class="columns is-vcentered has-text-centered"><div class="column is-2"><img src="/static/img/logo_ga_oes.png"></div><div class="column">Il ne peut pas y avoir d\'Occitanie Esports sans sa Gamers Assembly et son lot de tournois !<br>Voici donc tous les tournois aussi esports et fun les uns que les autres mais surtout le plus important : des tournois GA certified.</div></div>',
     link: '/tournois'
   },
