@@ -9,7 +9,7 @@ const config = {
     url: 'http://www.ville-saint-benoit.fr/'
   },
   home: {
-    banner: '/static/img/banner.png',
+    banner: '/static/img/banner_gahe2020.png',
     // hero: {
     //   background: '/static/img/bg-grey-area.jpg',
     //   backgroundVideo: 'https://temp.gamers-assembly.net/ga2018.mp4',
